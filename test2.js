@@ -14,3 +14,18 @@
 //];
 //const ageFilter = (arr) => arr.filter(({age})=> age >= 18);
 //console.log(ageFilter(people));
+
+//Напишите функцию, которая принимает на вход массив чисел и возвращает новый массив, состоящий из квадратов этих чисел.
+//const array = [2, 3, 4, 5, 99, 100, 11];
+//function numbers(arr) {
+//  return arr.map((elem) => elem * elem);
+//}
+//console.log(numbers(array));
+
+//Напишите функцию, которая принимает на вход строку и возвращает ее в обратном порядке.
+//const str = "Sveta jgi";
+
+//function words(str1) {
+//  return str1.split("").reverse().join("");
+//}
+//console.log(words(str));
